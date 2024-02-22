@@ -1,0 +1,48 @@
+#brandimg{
+    width:100px;
+    height:40px;
+}
+#card1{
+    background-image: url(../image/pb-2-1.jpg);
+    
+    height:270px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#card2{
+    background-image: url(../image/pb-2-2.jpg);
+   
+    height:270px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#cheese {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: 2;
+  font-weight: 500;
+  font-style: normal;
+  color:#6f5e4d;
+  font-size: 25px;
+}
+#cheese1{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: 2;
+    font-weight: 500;
+    font-style: normal; 
+    font-size: 25px;
+}
+
+#hov:hover{
+    border: 2px solid gray;
+   background-color: rgb(44, 43, 43); 
+   color:white;
+   
+#btn{
+    background-color: rgb(194, 169, 24);
+    border: none;
+    color: antiquewhite;
+    font-size: 20px;
+}
+}
